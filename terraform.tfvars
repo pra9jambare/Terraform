@@ -1,0 +1,9 @@
+key_name=
+public_key=
+port=
+ami=
+instance_type=
+access_key=
+secret_key=
+region=
+SG_name=
